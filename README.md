@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fractais
 
 ## Objetivo
@@ -11,9 +10,9 @@ O seu objetivo é aprender recursão para implementar o código que produzirá o
 
 ## Uso
 
-    A biblioteca para c está em lib/cpen.h. A biblioteca para c++ está em lib/pen.h.
-    O projeto do qtcreator já inclui as bibliotecas.
-	No caso, se for utilizar Python turtle so é necessário o executar.
+   A biblioteca para c está em lib/cpen.h. A biblioteca para c++ está em lib/pen.h.
+   O projeto do qtcreator já inclui as bibliotecas.
+   No caso, se for utilizar Python turtle so é necessário o executar.
 
 ## Métodos
 
@@ -79,7 +78,3 @@ O seu objetivo é aprender recursão para implementar o código que produzirá o
     float getHeading();
     int   getThickness();
 ```
-
-=======
-# Fractais
->>>>>>> 3c6ba36e77d274118acdeb7129f60f35c7e37b4c
