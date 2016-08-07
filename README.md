@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fractais
 
 ## Objetivo
@@ -79,3 +80,6 @@ O seu objetivo é aprender recursão para implementar o código que produzirá o
     int   getThickness();
 ```
 
+=======
+# Fractais
+>>>>>>> 3c6ba36e77d274118acdeb7129f60f35c7e37b4c
