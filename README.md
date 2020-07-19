@@ -1,8 +1,6 @@
-# Fractals
+# Fractal
 
-## Objetivo
-
-O seu objetivo é aprender recursão para implementar o código que produzirá os fractais da pasta imagens.
+Fractal (do latim fractu: fração, quebrado) é uma figura da geometria não clássica muito encontrada na natureza, isto é, um objeto em que suas partes separadas repetem os traços (a aparência) do todo completo (padrão repetitivo), como por exemplo o floco de neve de Koch. [Ver mais](https://pt.wikipedia.org/wiki/Fractals)
 
 ## Instalação
 
