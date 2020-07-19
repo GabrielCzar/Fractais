@@ -4,7 +4,14 @@ Fractal (do latim fractu: fração, quebrado) é uma figura da geometria não cl
 
 ## Instalação
 
-    sudo apt-get install libsfml-dev -y
+- C++
+
+        sudo apt install libsfml-dev -y
+
+- Python
+
+        sudo apt install python-tk -y
+
 
 ## Uso
 
