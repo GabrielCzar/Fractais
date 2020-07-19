@@ -6,12 +6,12 @@ O seu objetivo é aprender recursão para implementar o código que produzirá o
 
 ## Instalação
 
-    sudo apt-get install libsfml-dev
+    sudo apt-get install libsfml-dev -y
 
 ## Uso
 
-   A biblioteca para c está em lib/cpen.h. A biblioteca para c++ está em lib/pen.h.
-   O projeto do qtcreator já inclui as bibliotecas.
+   A biblioteca para C está em `lib/cpen.h`. A biblioteca para C++ está em `lib/pen.h`.
+   O projeto do QTCreator já inclui as bibliotecas.
    No caso, se for utilizar Python turtle so é necessário o executar.
 
 ## Métodos
