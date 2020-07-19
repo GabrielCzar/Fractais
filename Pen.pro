@@ -11,6 +11,7 @@ SOURCES += \
     frac_exemplos_c.cpp
 
 HEADERS += \
+    fractais/frac_dragon.h \
     fractais/frac_gelo.h \
     fractais/frac_quadrados.h \
     fractais/frac_trigo.h \
