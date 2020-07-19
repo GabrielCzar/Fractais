@@ -16,19 +16,19 @@ using namespace std;
 int main() {
     //Execute a funcao de criacao de algum dos fractais
 
-    string fractal[9] = { "Tree", "Ice", "Triangle", "Square", "Wheat", "Circle", "Carpet", "Rotation", "Dragon" };
+    string fractal[9] = { "Árvore", "Gelo", "Triangulo", "Quadrado", "Trigo", "Circulo", "Tapete", "Rotação", "Dragão" };
     int type;
 
     cout << "Please choose a fractal to execute: " << endl
-         << "1 - Tree" << endl
-         << "2 - Ice"  << endl
-         << "3 - Triangle" << endl
-         << "4 - Square" << endl
-         << "5 - Wheat" << endl
-         << "6 - Circle" << endl
-         << "7 - Carpet" << endl
-         << "8 - Rotation" << endl
-         << "9 - Dragon" << endl;
+         << "1 - Árvore" << endl
+         << "2 - Gelo"  << endl
+         << "3 - Triangulo" << endl
+         << "4 - Quadrado" << endl
+         << "5 - Trigo" << endl
+         << "6 - Circulo" << endl
+         << "7 - Tapete" << endl
+         << "8 - Rotação" << endl
+         << "9 - Dragão" << endl;
 
     cin >> type;
 
